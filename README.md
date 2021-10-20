@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Raulzito311
-- 👀 I’m interested in Java Development
+- 👀 I’m interested in Fullstack Development
+- ✨ I have Java as top skill
 - 🌱 I’m currently learning Oracle Cloud
 - 📫 How to reach me: raulmff@gmail.com
 <!--
