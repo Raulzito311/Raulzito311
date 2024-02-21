@@ -1,5 +1,5 @@
 Rubiks Cube Solver
-http://raulzito-rubikscubesolver.herokuapp.com/
+https://raulzito311.github.io/RubiksCube
 
 My Games
 raulzito.itch.io
