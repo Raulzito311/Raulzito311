@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raulzito311
 - 🌱 I work in Oracle
-- ✨ I am Oracle Digital Assistant (ODA) Certified
+- ✨ I am Java Certified
 <!--
 - 👀 I’m interested in Fullstack Development
 - ✨ I have Java as top skill
